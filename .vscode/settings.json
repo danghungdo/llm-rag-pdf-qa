@@ -1,6 +1,0 @@
-{
-    "sonarlint.connectedMode.project": {
-        "connectionId": "danghungdo",
-        "projectKey": "danghungdo_llm-rag-pdf-qa"
-    }
-}
